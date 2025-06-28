@@ -1,0 +1,15 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.env
+.venv/
+venv/
+.env/
+
+# VSCode and macOS clutter
+.vscode/
+.DS_Store
+
